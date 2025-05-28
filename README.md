@@ -53,7 +53,7 @@
 
 ---
 
-### 🎓 About Me
+### 👨 About Me
 
 - 🎓 **MSc Computer Science (Pending result)**, University of Bath, United Kingdom
 - 🎓 **BSc (Hons) Games Development**, Buckinghamshire New University, United Kingdom
@@ -64,9 +64,10 @@
 
 ---
 
-### Licenses & Certificates
+### 📖 Licenses & Certificates
 
-🛡️ Holder of **SIA Door Supervisor License (UK)** and **SIA CCTV License (UK)**
+- 📜 IT Technician **(EQF 5 / NVQ 4)** Europass Europe
+- 🛡️ Holder of **SIA Door Supervisor License (UK)** and **SIA CCTV License (UK)**
 
 ---
 
@@ -95,7 +96,7 @@
 
 ---
 
-### 📊 GitHub Stats (Auto Light/Dark Mode)
+### 📊 GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tr4spy&show_icons=true&theme=dark"/>
