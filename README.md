@@ -19,23 +19,9 @@
 
 ---
 
-### 🔭 Currently Working On
-
-🎮 [Isometric RPG game with AI Dynamic Difficulty Adjustment](https://github.com/TR4SPY/FTRotE)
-
----
-
-### 🌱 Currently Learning
-
-**QA Engineering**
-
----
-
-### 🌐 My Cyber HUB
-
-<p align="left">
+<p align="center">
   <a href="https://tr4spy.com">
-    <img src="https://tr4spy.com/favicon.ico" alt="Main Site" width="20" /> Main Site
+    <img src="https://tr4spy.com/favicon.ico" alt="Main Site" width="20" /> My Main Cyber HUB
   </a> |
   <a href="https://tr4spy.com/portfolio">
     <img src="https://tr4spy.com/favicon.ico" alt="Portfolio" width="20" /> Portfolio
@@ -50,6 +36,18 @@
     <img src="https://tr4spy.com/favicon.ico" alt="Contact" width="20" /> Contact
   </a>
 </p>
+
+---
+
+### 🔭 Currently Working On
+
+- 🎮 [Isometric RPG game with AI Dynamic Difficulty Adjustment](https://github.com/TR4SPY/FTRotE)
+
+---
+
+### 🌱 Currently Learning
+
+- **QA Engineering**
 
 ---
 
