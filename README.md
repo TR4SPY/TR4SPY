@@ -53,7 +53,7 @@
 
 ### 👨 About Me
 
-- 🎓 **MSc Computer Science (Pending result)**, University of Bath, United Kingdom
+- 🎓 **MSc Computer Science**, University of Bath, United Kingdom
 - 🎓 **BSc (Hons) Games Development**, Buckinghamshire New University, United Kingdom
 - 🎓 **IT Technician**, Technical High School (KEN No. 1), Szczecinek, Poland
 
